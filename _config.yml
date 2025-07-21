@@ -6,12 +6,12 @@ description: "Some short description of your blog can go here." # This will show
 # All of these are optional and can be removed or commented out
 email: "SojournSoJoy@gmail.com"
 github_username: "SojournSoJoy"
-bluesky_username: "SojournSoJoy"
+#bluesky_username: "SojournSoJoy"
 #twitter_username: "SojournSoJoy"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
-instagram_username: SojournSoJoy
+#instagram_username: SojournSoJoy
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username

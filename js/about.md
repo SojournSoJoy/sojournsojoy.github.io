@@ -14,11 +14,6 @@ theme: "minima"
 
 ---
 
-This site is a digital reflection of my journey—temporary, intentional, and joy-filled.  
-Here you'll find thoughts, creations, and moments that make up my sojourn.
-
----
-
 ## 🌐 Connect with Me
 
 - 📧 Email: [SojournSoJoy@gmail.com](mailto:SojournSoJoy@gmail.com)  

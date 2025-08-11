@@ -1,10 +1,5 @@
 ---
-title: "SojournSoJoy"
-author: "Joy"
-email: "SojournSoJoy@gmail.com"
-github_username: "SojournSoJoy"
-instagram_username: "SojournSoJoy"
-theme: "minima"
+title: "About"
 ---
 
 # SO · JOURN
@@ -14,7 +9,7 @@ theme: "minima"
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - 📧 Email: [SojournSoJoy@gmail.com](mailto:SojournSoJoy@gmail.com)  
 - 🐙 GitHub: [SojournSoJoy](https://github.com/SojournSoJoy)  

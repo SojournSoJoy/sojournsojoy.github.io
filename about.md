@@ -14,4 +14,5 @@ title: "About"
 - 📧 Email: [SojournSoJoy@gmail.com](mailto:SojournSoJoy@gmail.com)  
 - 🐙 GitHub: [SojournSoJoy](https://github.com/SojournSoJoy)  
 - 📸 Instagram: [@SojournSoJoy](https://instagram.com/SojournSoJoy)
+- 🐦 Twitter: [@SojournSoJoy](https://twitter.com/sojournsojoy)
 - 🦋 Bluesky: [@SojournSoJoy](https://bsky.app/profile/sojournsojoy.bsky.social)

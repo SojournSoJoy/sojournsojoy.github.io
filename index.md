@@ -1,1 +1,1 @@
-everything is by design
+for the love of the game
